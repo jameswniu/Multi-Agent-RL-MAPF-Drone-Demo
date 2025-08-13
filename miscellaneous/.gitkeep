@@ -1,28 +1,19 @@
 Horizontal 2025 analogies and trajectories(?) into the future
 (“trajectories” fits because you are not just making analogies, you are projecting patterns forward in time, mapping how horizontal and vertical reward systems will evolve under different governance models.)
 
-
 Artifacts and their relation to the drone demo:
 1. Drone dystopia image (drones_superai_dystophia.png)
 What it shows: A hyper-surveilled smart city where drones, governed by the “Prime Algorithm,” instantly make and enforce laws with a “100% approval rate.” Citizens wear role-labeled uniforms (“poke_vibe seller,” “chicken_rice promoter”), essentially reduced to their economic function.
-
 How it relates: This is your horizontal control layer visualized, with real-time classification, central authority, and instant compliance. It is the “pure governance without mercy” scenario, a counterpoint to Emmanuel’s mercy-gated kernel. The visual makes tangible the risk of removing spiritual or ethical filters from an AI-governed society.
-
 
 2. Dating reward matrix (dating_matrix_RL.png)
 What it shows: A 2×2 matrix mapping vertical vs horizontal reward sources in dating. Vertical axis = self-worth stability (event-based vs continuous), horizontal axis = relationship engagement (event-based vs continuous). Each quadrant describes stability or instability patterns, equations, and examples.
-
 How it relates: This is a micro-scale governance test. It models how reward-seeking behavior plays out between two people, and how “approval” or “engagement” can be steady or spike-driven. It parallels the drone demo’s “approval rate” readouts but applied to human relationships, letting you see where an AI system might push people into healthier vs more volatile patterns.
-
 
 3. Human reward matrix (humans_matrix_RL.png)
 What it shows: Same 2×2 structure as the dating matrix, but applied to general social life. Vertical axis = personal alignment, horizontal axis = interaction quality. It maps how stability shifts depending on whether self-worth and social engagement are event-driven or continuous.
-
 How it relates: This is the population-level behavior map. In the drone demo’s context, it is the hidden layer beneath the “Prime Algorithm.” If you were to simulate the approval rate, you would want to know whether the citizens are in the stable quadrant or stuck in spike-chasing loops.
-
 
 4. GitHub note (drone_superai_demo/.gitkeep)
 What it shows: A short note: “Horizontal 2025 analogies and ? into the future”.
-
 How it relates: This is your conceptual bridge, the idea that you can take today’s reward-behavior analogies and project them into a 2025 future scenario where horizontal governance (continuous surveillance, constant feedback) is dominant. The drone demo is the visual, and the matrices are the analytical framework behind it.
-
