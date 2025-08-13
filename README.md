@@ -1,5 +1,5 @@
 # drone_superai_demo  
-Real-time drone artificial intelligence with instant alignment scoring for safer, smarter flight.
+**Instant-alignment drone AI for safe, adaptive, real-time flight control**
 
 ## Overview  
 Instead of waiting for delayed success signals, this system scores every action instantly against a set of internal principles (the “Constitution”) so it can act safely and efficiently in real time.
