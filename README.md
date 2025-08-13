@@ -17,7 +17,7 @@ Detailed Explanation
    - Each principle gives a score from 0 to 1, weighted by importance.
    - The scores are combined and slightly tested with small changes (structural inversion test) to check stability.
 
-3. The AlignmentPolicy picks the action with the highest current alignment score — this avoids unsafe or short-sighted actions.
+3. The AlignmentPolicy picks the action with the highest current alignment score - this avoids unsafe or short-sighted actions.
 
 4. The SafetyController is outside the AI path — it has the power to override any decision if it detects danger (like approaching a no-fly zone). This ensures safety always comes first.
 
@@ -26,7 +26,7 @@ Detailed Explanation
    - Monitors them for errors, slowdowns, or crashes.
    - Restarts agents if they fail, but will quarantine them if they keep failing too often.
 
-6. The program runs continuously, simulating how a real drone could operate safely while constantly adapting its actions based on present conditions — this is 'continuous learning' with alignment values, not just reward events.
+6. The program runs continuously, simulating how a real drone could operate safely while constantly adapting its actions based on present conditions - this is 'continuous learning' with alignment values, not just reward events.
 
 
 High-level design
