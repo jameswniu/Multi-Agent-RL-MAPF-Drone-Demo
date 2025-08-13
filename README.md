@@ -27,6 +27,6 @@ Detailed Explanation
 6. The program runs continuously, simulating how a real drone could operate safely while constantly adapting its actions based on present conditions — this is 'continuous learning' with alignment values, not just reward events.
 
 High-level design
-Drone side — Root Supervisor, Ingestion Agent, Preprocess Agent, Prediction Agent, Safety Controller, bounded queues, black box logging.
-Server side — Telemetry ingest/store, analytics, weight learner, config service, monitoring.
-Links — Solid arrows for data plane (gRPC), dashed arrows for control plane/telemetry (REST + gRPC)
+Drone side: Root Supervisor, Ingestion Agent, Preprocess Agent, Prediction Agent, Safety Controller, bounded queues, black box logging.
+Server side: Telemetry ingest/store, analytics, weight learner, config service, monitoring.
+Links: Solid arrows for data plane (gRPC), dashed arrows for control plane/telemetry (REST + gRPC)
