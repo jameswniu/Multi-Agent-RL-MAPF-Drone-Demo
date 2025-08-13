@@ -1,4 +1,4 @@
-# drone_superai_rl_mapf_alignment 
+# drone_superai_demo
 **Instant-alignment drone AI for safe, adaptive, real-time flight control**
 
 ## Overview  
