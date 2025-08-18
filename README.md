@@ -1,4 +1,4 @@
-# drone_superai_demo  
+# Multi-Agent RL MAPF Drone Demo
 **Instant-alignment drone AI for safe, adaptive, real-time flight control**
 
 ## Overview  
